@@ -1,6 +1,6 @@
 [Update]
 Version=3
 
-1=text.zip
-2=text1.zip
-3=text1.zip
+1=https://github.com/AndyAbo/380/releases/download/LIN/test.zip
+2=https://github.com/AndyAbo/380/releases/download/LIN/text.zip
+3=https://github.com/AndyAbo/380/releases/download/LIN/text.zip
