@@ -1,0 +1,5 @@
+[Update]
+Version=2
+
+1=text.zip
+2=text1.zip
